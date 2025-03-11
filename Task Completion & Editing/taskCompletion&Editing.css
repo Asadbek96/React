@@ -1,0 +1,11 @@
+h2{
+    color: rgb(0, 81, 76);
+    font-weight: 900;
+    font-size: 29px;
+}
+button{
+    background-color: rgb(0, 163, 152);
+}
+button:active{
+    transform: scale(0.95);
+}
